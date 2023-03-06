@@ -10,10 +10,10 @@ npm install bip39 ethereumjs-wallet prompt-sync
 2. Wait for it... (The program will print 'calculating...' to ensure it's still working.)
 3. The output format will be a 12-word mnemonic and its corresponding Ethereum address. Below is an example:
 ```
-please enter prefix: 1a
+please enter prefix: 1ab
 calculating...
-industry govern tent client plug lecture shoulder indicate category furnace quick south
-0x1acB1f18b099909f3457A228F541bFc966e641C1
+leader pistol busy unfair more rely biology arm despair inspire zoo sadness
+0x1abdAB4de0eF9B7c78B7bD654231D0763b939E3A
 ```
 ## Reference
 Use [Mnemonic Code Converter](https://iancoleman.io/bip39/) to check if the result is correct. Also, please go to [bip39](https://github.com/bitcoinjs/bip39) and [ethereumjs-wallet](https://github.com/ethereumjs/ethereumjs-wallet) for more details.
