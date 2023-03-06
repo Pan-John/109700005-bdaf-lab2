@@ -16,7 +16,7 @@ while (!address.startsWith('0x'+prefix)) {
     }
 
     count = count + 1
-    if(count%1000==0)
+    if(count%5000==0)
         console.log("calculating...")
 
     mnemonic = bip39.generateMnemonic()
