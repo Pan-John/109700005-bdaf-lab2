@@ -6,7 +6,7 @@ This `Node.js` application  generates a random Ethereum wallet address until it 
 npm install bip39 ethereumjs-wallet prompt-sync
 ```
 ## Execution
-1. Input target prefix. (if it's not in hex, the program would ask to input another prefix)
+1. Input target prefix. (if it's not in hex, the program would ask to input another prefix.)
 2. Wait for it... (The program will print 'calculating...' to ensure it's still working.)
 3. The output format will be a 12-word mnemonic and its corresponding Ethereum address. Below is an example:
 ```
